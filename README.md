@@ -81,12 +81,12 @@ The dataset consists of order-level sales records with the following fields:
 sales-performance-dashboard/
 │
 ├── data/
-│ └── sales_data.csv
+│   └── sales_data.csv          # Raw dataset used for analysis
 │
 ├── dashboard/
-│ └── sales_dashboard.xlsx
+│   └── sales_dashboard.xlsx    # Interactive Excel dashboard
 │
 ├── images/
-│ └── dashboard_preview.png
+│   └── dashboard_preview.png   # Screenshot of the final dashboard
 │
-└── README.md
+└── README.md                   # Project documentation and insights
