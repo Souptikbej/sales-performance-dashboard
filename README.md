@@ -57,7 +57,7 @@ The dataset consists of order-level sales records with the following fields:
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard Preview](images/Screenshot_2026-02-07_200348.png)
+![Dashboard Preview](images/dashboard_preview.png)
 
 ---
 
